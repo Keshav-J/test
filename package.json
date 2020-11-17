@@ -20,7 +20,7 @@
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
-    "extends": "react-app"
+    "extends": "angular-app"
   },
   "browserslist": {
     "production": [
