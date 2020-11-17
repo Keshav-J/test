@@ -21,6 +21,7 @@
   },
   "eslintConfig": {
     "extends": "angular-app"
+    "extends": "vue-app"
   },
   "browserslist": {
     "production": [
