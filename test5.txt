@@ -1,2 +1,4 @@
 hello world
 test branch
+new changes made before commit
+this change is made after git reset HARD^
